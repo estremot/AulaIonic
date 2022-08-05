@@ -1,0 +1,7 @@
+{
+  "name": "ETEC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
